@@ -26,13 +26,13 @@
   <main>
     <h2>Bem-vindo ao nosso site!</h2>
     <p>Seja bem vindo! Este é um site para se sentir em casa e se divertir com tudo que vc queira saber sobre o universo dos musicais.</p>
-    <img src="<img src="imagem wicked Brasil.jpg" alt="imagem do musical de Wicked">
-" alt="Imagem principal do site" width="500">
-    
+    <img >
+     
   <header>
     <nav>
       <ul>
         <li><a href="index.html">Início</a></li>
+        <p>Algumas informações sobre o nosso site abaixo</p>
         <li><a href="sobre.html">Sobre</a></li>      
 <p>Esse site é unico para quem quer se aventurar em um mundo divertido. Aqui você consegue ouvir as nossas sugestões e experiências com o teatro ou até as de outras pessoas!<p>
         <li><a href="servicos.html">Serviços</a></li>
