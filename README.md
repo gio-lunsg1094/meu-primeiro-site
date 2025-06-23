@@ -30,6 +30,67 @@
 " alt="Imagem principal do site" width="500">
   </main>
 
+/* ---------- Estilo geral da página ---------- */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f4f8fc; /* Cor de fundo clara e agradável */
+  font-family: 'Arial', sans-serif;
+  color: #333;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+/* ---------- Títulos ---------- */
+h1, h2 {
+  color: #222;
+  margin-bottom: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+/* ---------- Parágrafos ---------- */
+p {
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+
+/* ---------- Menu de navegação ---------- */
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  justify-content: flex-end;
+  align-items: center;
+  background-color: #ffffff;
+  padding: 15px 30px;
+  border-bottom: 2px solid #ddd;
+}
+
+nav a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+/* ---------- Botão de destaque ---------- */
+.botao-destaque {
+  background-color: #007BFF;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 5px;
+}
+
+.botao-destaque:hover {
+  background-color: #0056b3;
+}
+
   <!-- Rodapé com informações finais -->
   <footer>
     <p>© 2025 - Meu Site. Todos os direitos reservados.</p>
