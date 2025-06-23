@@ -21,7 +21,7 @@
       </ul>
     </nav>
   </header>
-
+[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cnnbrasil.com.br%2Fentretenimento%2Fwicked-montagem-brasileira-retorna-a-sao-paulo-nesta-quinta-feira%2F&psig=AOvVaw1XJF3djrHD_EfYmYXuVmhw&ust=1750808596179000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCypbXciI4DFQAAAAAdAAAAABAE](url)
   <!-- Conteúdo principal da página -->
   <main>
     <h2>Bem-vindo ao nosso site!</h2>
