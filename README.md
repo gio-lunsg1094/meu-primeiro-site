@@ -21,12 +21,12 @@
       </ul>
     </nav>
   </header>
-[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cnnbrasil.com.br%2Fentretenimento%2Fwicked-montagem-brasileira-retorna-a-sao-paulo-nesta-quinta-feira%2F&psig=AOvVaw1XJF3djrHD_EfYmYXuVmhw&ust=1750808596179000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCypbXciI4DFQAAAAAdAAAAABAE](url)
+
   <!-- Conteúdo principal da página -->
   <main>
     <h2>Bem-vindo ao nosso site!</h2>
     <p>Seja bem vindo! Este é um site para se sentir em casa e se divertir com tudo que vc queira saber sobre o universo dos musicais.</p>
-    <img >
+    <img >![Image](https://github.com/user-attachments/assets/1ad8a223-1f09-4a4f-a3a0-dfef87e4f6e1)>
      
   <header>
     <nav>
