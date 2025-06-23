@@ -28,9 +28,7 @@
     <p>Seja bem vindo! Este é um site para se sentir em casa e se divertir com tudo que vc queira saber sobre o universo dos musicais.</p>
     <img src="<img src="imagem wicked Brasil.jpg" alt="imagem do musical de Wicked">
 " alt="Imagem principal do site" width="500">
-  </main>
-│
-├── index.html           ← página inicial
+
 ├── sobre.html           ← seção "Sobre nós"
 <p>Esse site é unico para quem quer se aventurar em um mundo divertido. Aqui você consegue ouvir as nossas sugestões e experiências com o teatro ou até as de outras pessoas!<p>
 ├── servicos.html        ← seção "Serviços"
@@ -55,7 +53,7 @@
         <li><a href="sobre.html">Sobre</a></li>      
 <p>Esse site é unico para quem quer se aventurar em um mundo divertido. Aqui você consegue ouvir as nossas sugestões e experiências com o teatro ou até as de outras pessoas!<p>
         <li><a href="servicos.html">Serviços</a></li>
-<p> Tudo o que você quizer saber sobre musicais, está aqui!Seja sugestões, informações sobre as peças ou atores, tudo isso está aqui a sua espera!</p>
+<p> Sugestões: Um musical que está em cartaz em São Paulo e que é incrivelmente bom e emocionante, é Wicked.Esse musical conta a história por traz da bruxa má do oeste do universo do Mágico de Oz.Recomendo todas as pessoas a irem assistir essa obra prima! </p>
         <li><a href="depoimentos.html">Depoimentos</a></li>
         <li><a href="contato.html">Contato</a></li>
         <li><a href="#" class="botao-destaque">Matricule-se já</a></li>
