@@ -29,11 +29,12 @@
     <img src="<img src="imagem wicked Brasil.jpg" alt="imagem do musical de Wicked">
 " alt="Imagem principal do site" width="500">
   </main>
-/projeto-site/
 │
 ├── index.html           ← página inicial
 ├── sobre.html           ← seção "Sobre nós"
+<p>Esse site é unico para quem quer se aventurar em um mundo divertido. Aqui você consegue ouvir as nossas sugestões e experiências com o teatro ou até as de outras pessoas!<p>
 ├── servicos.html        ← seção "Serviços"
+<p> Tudo o que você quizer saber sobre musicais, está aqui!Seja sugestões, informações sobre as peças ou atores, tudo isso está aqui a sua espera!</p>
 ├── depoimentos.html     ← seção "Depoimentos"
 ├── contato.html         ← seção "Contato"
 ├── estilo.css           ← CSS usado em todas as páginas
@@ -48,12 +49,13 @@
 <body>
 
   <header>
-    <h1>Nome do Site</h1>
     <nav>
       <ul>
         <li><a href="index.html">Início</a></li>
-        <li><a href="sobre.html">Sobre</a></li>
+        <li><a href="sobre.html">Sobre</a></li>      
+<p>Esse site é unico para quem quer se aventurar em um mundo divertido. Aqui você consegue ouvir as nossas sugestões e experiências com o teatro ou até as de outras pessoas!<p>
         <li><a href="servicos.html">Serviços</a></li>
+<p> Tudo o que você quizer saber sobre musicais, está aqui!Seja sugestões, informações sobre as peças ou atores, tudo isso está aqui a sua espera!</p>
         <li><a href="depoimentos.html">Depoimentos</a></li>
         <li><a href="contato.html">Contato</a></li>
         <li><a href="#" class="botao-destaque">Matricule-se já</a></li>
