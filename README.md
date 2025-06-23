@@ -29,67 +29,49 @@
     <img src="<img src="imagem wicked Brasil.jpg" alt="imagem do musical de Wicked">
 " alt="Imagem principal do site" width="500">
   </main>
+/projeto-site/
+│
+├── index.html           ← página inicial
+├── sobre.html           ← seção "Sobre nós"
+├── servicos.html        ← seção "Serviços"
+├── depoimentos.html     ← seção "Depoimentos"
+├── contato.html         ← seção "Contato"
+├── estilo.css           ← CSS usado em todas as páginas
+└── /img                 ← pasta opcional para imagens
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Início</title>
+  <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
 
-/* ---------- Estilo geral da página ---------- */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+  <header>
+    <h1>Nome do Site</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Início</a></li>
+        <li><a href="sobre.html">Sobre</a></li>
+        <li><a href="servicos.html">Serviços</a></li>
+        <li><a href="depoimentos.html">Depoimentos</a></li>
+        <li><a href="contato.html">Contato</a></li>
+        <li><a href="#" class="botao-destaque">Matricule-se já</a></li>
+      </ul>
+    </nav>
+  </header>
 
-body {
-  background-color: #f4f8fc; /* Cor de fundo clara e agradável */
-  font-family: 'Arial', sans-serif;
-  color: #333;
-  line-height: 1.6;
-  padding: 20px;
-}
+  <main>
+    <h2>Bem-vindo ao nosso site!</h2>
+    <p>Explore as páginas para saber mais sobre nossos serviços.</p>
+  </main>
 
-/* ---------- Títulos ---------- */
-h1, h2 {
-  color: #222;
-  margin-bottom: 20px;
-}
+  <footer>
+    <p>© 2025 - Meu Site. Todos os direitos reservados.</p>
+  </footer>
 
-h1 {
-  text-align: center;
-}
-
-/* ---------- Parágrafos ---------- */
-p {
-  font-size: 16px;
-  margin-bottom: 15px;
-}
-
-/* ---------- Menu de navegação ---------- */
-nav ul {
-  list-style: none;
-  display: flex;
-  gap: 20px;
-  justify-content: flex-end;
-  align-items: center;
-  background-color: #ffffff;
-  padding: 15px 30px;
-  border-bottom: 2px solid #ddd;
-}
-
-nav a {
-  text-decoration: none;
-  color: #333;
-  font-weight: bold;
-}
-
-/* ---------- Botão de destaque ---------- */
-.botao-destaque {
-  background-color: #007BFF;
-  color: white;
-  padding: 8px 16px;
-  border-radius: 5px;
-}
-
-.botao-destaque:hover {
-  background-color: #0056b3;
-}
+</body>
+</html>
 
   <!-- Rodapé com informações finais -->
   <footer>
