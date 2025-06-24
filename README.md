@@ -27,7 +27,10 @@
     <h2>Bem-vindo ao nosso site!</h2>
     <p>Seja bem vindo! Este é um site para se sentir em casa e se divertir com tudo que vc queira saber sobre o universo dos musicais.</p>
     [f1.pdf](https://github.com/user-attachments/files/20874084/f1.pdf)
-     
+ 
+    [f3 beetlejuice.pdf](https://github.com/user-attachments/files/20874195/f3.beetlejuice.pdf)
+
+    
   <header>
     <nav>
       <ul>
