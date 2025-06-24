@@ -59,7 +59,7 @@
 
  - "Over the Rainbow",é originalmente de um filme, essa canção é essencial nos palcos da Broadway, especialmente em versões como The Wizard of Oz e Wicked (que conta uma história paralela à do Mágico de Oz). É um símbolo de esperança e sonho — e uma das músicas mais regravadas do mundo.</p>
   <div align- "center">
-                               <img src="https://github.com/user-attachments/assets/7cc8d87d-0730-46cf-b6d0-b1dd1180b3e0"     width="550px" /> 
+                               <img src="https://github.com/user-attachments/assets/3c05a5a5-4a3e-466f-a8af-5e7f1d0d3eac"     width="480px" /> 
       </div>
 
   <main>
