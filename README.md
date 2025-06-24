@@ -25,17 +25,17 @@
   <!-- Conteúdo principal da página -->
   <main>
     <h2>Bem-vindo ao nosso site!</h2>
-    <p>Seja bem vindo! Este é um site para se sentir em casa e se divertir com tudo que vc queira saber sobre o universo dos musicais.</p>
+    <p>Seja bem vindo! Este é um site para se sentir em casa e se divertir com tudo que você queira saber sobre o universo dos musicais.</p>
 
    <div align- "center">
-  <img src="https://github.com/user-attachments/assets/2b15fc17-f379-406e-bdb9-6efbb261b522"  width="400px" />   <img src="https://github.com/user-attachments/assets/e2bf7ac6-d6c2-438e-8134-7d276d1fba3b" width="367px" />  
+  <img src="https://github.com/user-attachments/assets/2b15fc17-f379-406e-bdb9-6efbb261b522"  width="328px" />   <img src="https://github.com/user-attachments/assets/e2bf7ac6-d6c2-438e-8134-7d276d1fba3b" width="300px" />   <img src="https://github.com/user-attachments/assets/0f58ba23-6929-433d-aa0a-a298cb07eec7"  width="260px" /> 
     </div>
 
   <header>
     <nav>
       <ul>
         <li><a href="index.html">Início</a></li>
-        <p>Algumas informações sobre o nosso site abaixo</p>
+        <p>Alguns musicais mais famosos que já vieram da Brodway para o Brasil são:Meninas Malvadas, Beetle juice, Wicked, entre outros.</p>
         <li><a href="sobre.html">Sobre</a></li>      
 <p>Esse site é unico para quem quer se aventurar em um mundo divertido. Aqui você consegue ouvir as nossas sugestões e experiências com o teatro ou até as de outras pessoas!<p>
         <li><a href="servicos.html">Serviços</a></li>
