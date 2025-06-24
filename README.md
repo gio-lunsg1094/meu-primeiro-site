@@ -29,18 +29,18 @@
 
 <p>Muitos musicais famosos da Broadway estão ganhando espaço no teatro brasileiro e encantando muitas pessoas.Meninas Malvadas, Beetlejuice,Wicked, Mamma Mia,O Fantasma da Ópera,Rei Leão, entre muitos outras peças.Além das peças incriveis que são originalmente brasileiras como Rita Lee:Uma autobiografia Musical,que conta a história da famosa cantora brasileira Rita Lee.
    <div align- "center">
-  <img src="https://github.com/user-attachments/assets/2b15fc17-f379-406e-bdb9-6efbb261b522"  width="328px" />   <img src="https://github.com/user-attachments/assets/ee6b74d5-adbd-4195-a1d2-821595095489" width="300px" />   <img src="https://github.com/user-attachments/assets/0f58ba23-6929-433d-aa0a-a298cb07eec7"  width="260px" /> 
+  <img src="https://github.com/user-attachments/assets/2b15fc17-f379-406e-bdb9-6efbb261b522"  width="450px" />   <img src="https://github.com/user-attachments/assets/34b36aba-a70f-404d-8fae-8664f57506ea" width="412px" />  
     </div>
 
   <header>
     <nav>
       <ul>
-        <li><a href="index.html">Início</a></li>
-        <li><a href="sobre.html">Sobre</a></li>      
-        <li><a href="servicos.html">Serviços</a></li>
-        <li><a href="depoimentos.html">Depoimentos</a></li>
-        <li><a href="contato.html">Contato</a></li>
-        <li><a href="#" class="botao-destaque">Matricule-se já</a></li>
+        <li><a href="index.html">Sites para comprar ingressos</a></li>
+        <li><a href="sobre.html">Em cartaz</a></li>      
+        <li><a href="servicos.html">Onde assistir</a></li>
+        <li><a href="depoimentos.html">Sinopses</a></li>
+        <li><a href="contato.html">Avaliações</a></li>
+        <li><a href="#" class="botao-destaque">Saiba mais!</a></li>
       </ul>
     </nav>
   </header>
