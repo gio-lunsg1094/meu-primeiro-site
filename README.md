@@ -29,7 +29,7 @@
 
 <p>Muitos musicais famosos da Broadway estão ganhando espaço no teatro brasileiro e encantando muitas pessoas.Meninas Malvadas, Beetlejuice,Wicked, Mamma Mia,O Fantasma da Ópera,Rei Leão, entre muitos outras peças.Além das peças incriveis que são originalmente brasileiras como Rita Lee:Uma autobiografia Musical,que conta a história da famosa cantora brasileira Rita Lee.
    <div align- "center">
-  <img src="https://github.com/user-attachments/assets/2b15fc17-f379-406e-bdb9-6efbb261b522"  width="328px" />   <img src="https://github.com/user-attachments/assets/e2bf7ac6-d6c2-438e-8134-7d276d1fba3b" width="300px" />   <img src="https://github.com/user-attachments/assets/0f58ba23-6929-433d-aa0a-a298cb07eec7"  width="260px" /> 
+  <img src="https://github.com/user-attachments/assets/2b15fc17-f379-406e-bdb9-6efbb261b522"  width="328px" />   <img src="https://github.com/user-attachments/assets/ee6b74d5-adbd-4195-a1d2-821595095489" width="300px" />   <img src="https://github.com/user-attachments/assets/0f58ba23-6929-433d-aa0a-a298cb07eec7"  width="260px" /> 
     </div>
 
   <header>
