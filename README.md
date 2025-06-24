@@ -57,7 +57,11 @@
 
  - "Let It Go", do musical Frozen, que embora tenha surgido no cinema, ganhou ainda mais força nos palcos da Broadway. A canção, interpretada por Elsa, é um verdadeiro grito de independência e aceitação pessoal, conquistando gerações de fãs.
 
- - "Over the Rainbow",é originalmente de um filme, essa canção é essencial nos palcos da Broadway, especialmente em versões como The Wizard of Oz e Wicked (que conta uma história paralela à do Mágico de Oz). É um símbolo de esperança e sonho — e uma das músicas mais regravadas do mundo.</p>                                     
+ - "Over the Rainbow",é originalmente de um filme, essa canção é essencial nos palcos da Broadway, especialmente em versões como The Wizard of Oz e Wicked (que conta uma história paralela à do Mágico de Oz). É um símbolo de esperança e sonho — e uma das músicas mais regravadas do mundo.</p>
+  <div align- "center">
+                               <img src="https://github.com/user-attachments/assets/7cc8d87d-0730-46cf-b6d0-b1dd1180b3e0"     width="550px" /> 
+      </div>
+
   <main>
     <h2>Obrigada por explorar o nosso site!</h2>
     <p>Explore as páginas para saber mais sobre nossos serviços.</p>
