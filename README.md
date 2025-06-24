@@ -26,7 +26,7 @@
   <main>
     <h2>Bem-vindo ao nosso site!</h2>
     <p>Seja bem vindo! Este é um site para se sentir em casa e se divertir com tudo que vc queira saber sobre o universo dos musicais.</p>
-    <img >![Image](https://github.com/user-attachments/assets/1ad8a223-1f09-4a4f-a3a0-dfef87e4f6e1)>
+    [f1.pdf](https://github.com/user-attachments/files/20874084/f1.pdf)
      
   <header>
     <nav>
