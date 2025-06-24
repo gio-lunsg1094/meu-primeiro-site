@@ -49,10 +49,10 @@
   <div align- "center">
   <img src="https://github.com/user-attachments/assets/0f58ba23-6929-433d-aa0a-a298cb07eec7"  width="400" /> 
       </div>
- <h2>Musicas mais famosas da Broadway!</h2
+ <h2>Musicas mais famosas da Broadway!</h2>
                                         
-<p> - Uma das músicas mais emblemáticas é "Defying Gravity", do musical Wicked. Interpretada pela personagem Elphaba, a canção simboliza liberdade, força e coragem para seguir o próprio caminho, mesmo contra todas as expectativas. Sua melodia poderosa e letra inspiradora a tornaram um dos grandes hinos do teatro musical moderno.
-  
+<p>- Uma das músicas mais emblemáticas é "Defying Gravity", do musical Wicked. Interpretada pela personagem Elphaba, a canção simboliza liberdade, força e coragem para seguir o próprio caminho, mesmo contra todas as expectativas. Sua melodia poderosa e letra inspiradora a tornaram um dos grandes hinos do teatro musical moderno.
+ 
   - Do musical The Phantom of the Opera, a música-título "The Phantom of the Opera" também ganhou fama mundial. Com um tom sombrio e dramático, ela representa o mistério e a intensidade do relacionamento entre o Fantasma e Christine. A trilha sonora desse espetáculo é uma das mais bem-sucedidas da história da Broadway.
 
  - "Let It Go", do musical Frozen, que embora tenha surgido no cinema, ganhou ainda mais força nos palcos da Broadway. A canção, interpretada por Elsa, é um verdadeiro grito de independência e aceitação pessoal, conquistando gerações de fãs.
