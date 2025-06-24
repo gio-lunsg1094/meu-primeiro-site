@@ -46,7 +46,10 @@
   </header>
 <p> Sugestões de Musicais que estão em cartaz em São Paulo são: Meninas Malvadas – O Musical, Raul Seixas – O Musical, Território do Amor,João.
   E aqui estão outras sujestões de musicais que ainda vão estreiar nesse ano. São eles:Harry Potter e a Criança Amaldiçoada, que está vindo pela primeira vez para a América Latina.Ele conta a histórias sobre as aventuras que os filhos dos bruxos mais famosos do mundo enfrentam durante seus anos em Hogwarts. Wicked é um outro musical que já esteve algumas vezes aqui no Brasil, inclusive recentemente 2023.Agora ele volta com mais efeitos especiais que deixam a história bem mais emocionante!Além de varios outros musicais que já tiveram a uma temporada aqui no Brasil recentemente e voltam novamente esse ano, como: Beetlejuice e Matilda que voltam no final do ano! </p>
- 
+  <div align- "center">
+  <img src="https://github.com/user-attachments/assets/0f58ba23-6929-433d-aa0a-a298cb07eec7"  width="400" /> 
+      </div>
+
   <main>
     <h2>Obrigada por explorar o nosso site!</h2>
     <p>Explore as páginas para saber mais sobre nossos serviços.</p>
