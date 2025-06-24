@@ -49,6 +49,50 @@
   <div align- "center">
   <img src="https://github.com/user-attachments/assets/0f58ba23-6929-433d-aa0a-a298cb07eec7"  width="400" /> 
       </div>
+<h2>Curiosidades sobre alguns musicais da Broadway</h2>
+
+<p>The Phantom of the Opera
+  
+1. O mais longevo da Broadway: Estreou em 1988 e ficou em cartaz por 35 anos, com mais de 13 mil apresentações, até encerrar em 2023.
+
+2. Lustre icônico: O lustre que “cai” no palco é uma das cenas mais memoráveis. No palco, ele pesa quase uma tonelada!
+
+3. Inspirou outros gêneros: Além de musicais, O Fantasma da Ópera já virou filme, livro, paródias e até mangá.
+
+ Chicago
+ 
+1. Baseado em crimes reais: A história foi inspirada em dois casos verdadeiros de mulheres que mataram seus parceiros e se tornaram celebridades em Chicago na década de 1920.
+
+2. Musical “frio e cínico”: Foi inovador ao usar um estilo mais sarcástico e sem “heróis”. Quase todos os personagens são moralmente duvidosos.
+
+3. Musical de sucesso tardio: Embora tenha estreado em 1975, só se tornou um sucesso de verdade no revival de 1996 — e ainda está em cartaz!
+
+ Wicked
+ 
+1. Rivalidade saudável: Idina Menzel (Elphaba) e Kristin Chenoweth (Glinda), as atrizes originais, tinham personalidades opostas — e isso foi usado a favor da história.
+
+2. Músicas difíceis: “Defying Gravity” é considerada uma das canções mais difíceis da Broadway por causa da extensão vocal exigida.
+
+3. Continuação indireta: Wicked acontece antes da história de O Mágico de Oz, mostrando o que levou Elphaba a ser vista como “má”.
+
+ Hairspray
+ 
+1. Travesti no papel da mãe: Desde a versão original, Edna Turnblad (a mãe de Tracy) é sempre interpretada por um homem. Isso virou uma marca registrada do musical.
+
+2. Baseado em um filme cult: O musical é baseado no filme de John Waters, que era bem alternativo e underground nos anos 1980.
+
+3. Mensagem com humor: Apesar de tratar de temas como racismo e bullying, o musical é leve, colorido e engraçado — e isso torna sua mensagem ainda mais acessível.
+
+ The Lion King
+ 
+1. Figurinos e máscaras incríveis: A diretora Julie Taymor inovou ao misturar técnicas africanas de teatro, marionetes e máscaras artesanais.
+
+2. Sucesso absoluto: É o musical de maior bilheteria da história, ultrapassando O Fantasma da Ópera em receita.
+
+3. Elenco internacional: O elenco original incluiu atores da África do Sul e o musical já foi traduzido para várias línguas. <p>
+
+
+      
  <h2>Musicas mais famosas da Broadway!</h2>
                                         
 <p>- Uma das músicas mais emblemáticas é "Defying Gravity", do musical Wicked. Interpretada pela personagem Elphaba, a canção simboliza liberdade, força e coragem para seguir o próprio caminho, mesmo contra todas as expectativas. Sua melodia poderosa e letra inspiradora a tornaram um dos grandes hinos do teatro musical moderno.
@@ -59,7 +103,7 @@
 
  - "Over the Rainbow",é originalmente de um filme, essa canção é essencial nos palcos da Broadway, especialmente em versões como The Wizard of Oz e Wicked (que conta uma história paralela à do Mágico de Oz). É um símbolo de esperança e sonho — e uma das músicas mais regravadas do mundo.</p>
   <div align- "center">
-                               <img src="https://github.com/user-attachments/assets/3c05a5a5-4a3e-466f-a8af-5e7f1d0d3eac"     width="480px" /> 
+                               <img src="https://github.com/user-attachments/assets/3c05a5a5-4a3e-466f-a8af-5e7f1d0d3eac"     width="380px" />  <img src="https://github.com/user-attachments/assets/e149993a-6fa3-465b-a482-477cffa153d9"  width="508px" />
       </div>
 
   <main>
