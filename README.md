@@ -28,8 +28,9 @@
     <p>Seja bem vindo! Este é um site para se sentir em casa e se divertir com tudo que vc queira saber sobre o universo dos musicais.</p>
 
    <div align- "center">
-  <img src="https://github.com/user-attachments/assets/2b15fc17-f379-406e-bdb9-6efbb261b522" width="500px" />  
+  <img src="https://github.com/user-attachments/assets/2b15fc17-f379-406e-bdb9-6efbb261b522"  width="400px" />   <img src="https://github.com/user-attachments/assets/e2bf7ac6-d6c2-438e-8134-7d276d1fba3b" width="367px" />  
     </div>
+
   <header>
     <nav>
       <ul>
